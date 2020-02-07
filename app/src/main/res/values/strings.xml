@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MVCamera</string>
+
+    <string name="crash_toast_text">We\'re sorry but MVCamera\' unexpectedly crashed. Please let us know and fix this error by sending this report to us.</string>
+
+    <string name="CANCEL">CANCEL</string>
+    <string name="CLOSE">CLOSE</string>
+    <string name="Error">Error</string>
+    <string name="CONFIRM">CONFIRM</string>
+    <string name="NA">N/A</string>
+    <string name="NO">NO</string>
+    <string name="OK">OK</string>
+    <string name="Okay">Okay</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Success">Success</string>
+    <string name="Warning">Warning</string>
+    <string name="YES">YES</string>
+
+    <string name="msg_error_permission_camera">Check your camera permissions in Settings -> Apps -> MVCamera -> Permissions</string>
+
+    <string name="location_service_error_1">For a better experience, turn on device location,</string>
+    <string name="location_service_error_2">which uses Google\'s location service. </string>
+</resources>
